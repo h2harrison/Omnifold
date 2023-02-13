@@ -1,5 +1,4 @@
 # Omnifold
-Adventures in Omnifold: Run15 pp200
 
 Main Working Omnifold Code (One Observable): 
 >>HH_Omnifold_v1.py
