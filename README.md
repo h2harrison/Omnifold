@@ -9,8 +9,7 @@ Closure Test Omnifold Code (One Obseravable):
 
 
 
-
-
+  
 ******To run this locally... *******
 
 - Download data files ( ".npz" ) 
