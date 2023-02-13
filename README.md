@@ -13,7 +13,7 @@ Closure Test Omnifold Code (One Obseravable):
 
 - Download data files ( ".npz" ) 
 
-- Download Omnifold header files ("omnifold.py", "modplot.py", "ibu.py").
+- Download Omnifold header files (omnifold.py, modplot.py, ibu.py, train.py).
 
 - Install Python/Python3, if not already installed.
 
