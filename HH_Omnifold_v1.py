@@ -170,7 +170,7 @@ for obkey,ob in obs.items():
         
         # "closure test", embed weighted with inverse lumi
         #data
-        ax.hist(ob['dataobs'], bins=ob['bins_det'], color='blue',weights=wdata, label='"Data"(Det-Lev embed w/ Wclosure)', **hist_style)
+        ax.hist(ob['dataobs'], bins=ob['bins_det'], color='blue',weights=wdata, label='Data', **hist_style)
             
         #embed
         ax.hist(ob['simobs'], bins=ob['bins_det'], color='orange', label='"Sim"(Det-Lev embed)', **hist_style)
