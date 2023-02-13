@@ -1,9 +1,11 @@
 # Omnifold
 Adventures in Omnifold: Run15 pp200
 
-Main Working Omnifold Code (One Observable): >> HH_Omnifold_v1.py
+Main Working Omnifold Code (One Observable): 
+>>HH_Omnifold_v1.py
 
-Closure Test Omnifold Code (One Obseravable): "HH_Omnifold_closuretest.py"
+Closure Test Omnifold Code (One Obseravable): 
+>>HH_Omnifold_closuretest.py
 
 
 
