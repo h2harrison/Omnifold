@@ -147,8 +147,7 @@ for obkey,ob in obs.items():
     ndata, nsim = np.count_nonzero(Y_det[:,1]), np.count_nonzero(Y_det[:,0])
     wdata = np.ones(ndata)
 
-    winit = ndata/nsim*np.ones(nsim)*10 #<--- "10's" (currently using for Closure Test diagnosis)
-    #winit = ndata/nsim*np.ones(nsim)   #<--- omnifold example default; "1's" (currently using)
+    winit = ndata/nsim*np.ones(nsim)   #<--- omnifold example default; "1's" (currently using)
     #winit= ndata/nsim * lumis['sim_weights'] #<--- inverse lumis (Youqi is using these)
 
     
